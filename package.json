@@ -1,28 +1,28 @@
 {
-  "name": "web3-test",
-  "version": "1.0.0",
-  "description": "web3练习",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/easterCat/web3-test.git"
-  },
-  "keywords": [
-    "web3"
-  ],
-  "author": "aldrich",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/easterCat/web3-test/issues"
-  },
-  "homepage": "https://github.com/easterCat/web3-test#readme",
-  "dependencies": {
-    "ethereumjs-tx": "^2.1.2",
-    "express": "^4.18.1",
-    "fs-extra": "^10.1.0",
-    "web3": "^1.7.5"
-  }
+    "name": "web3-test",
+    "version": "1.0.0",
+    "description": "web3练习",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/easterCat/web3-test.git"
+    },
+    "keywords": [
+        "web3"
+    ],
+    "author": "aldrich",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/easterCat/web3-test/issues"
+    },
+    "homepage": "https://github.com/easterCat/web3-test#readme",
+    "dependencies": {
+        "ethereumjs-tx": "^2.1.2",
+        "express": "^4.18.1",
+        "fs-extra": "^10.1.0",
+        "web3": "^1.7.5"
+    }
 }
